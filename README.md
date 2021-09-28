@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RSotg
-- 👀 I’m interested in ... Armar mi repositorio para demostrarME que soy capaz de programar.
+- 👀 I’m interested in ... Cargar mi repositorio.
 - 🌱 I’m currently learning ... Desarrollo de Software.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
