@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RSotg
-- 👀 I’m interested in ... Cargar mi repositorio.
-- 🌱 I’m currently learning ... Desarrollo de Software. SQL/C# .NET
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @RSotg (Raquel Soto).
+- 👀 I’m interested in ... Learn and Reinforce / Aprender y Reforzar.
+- 🌱 I’m currently learning ... Software Development / Desarrollo de Software. SQL/C# .NET
 - 📫 How to reach me ... raquelsotoargentina@gmail.com
 
 <!---
