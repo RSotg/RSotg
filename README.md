@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RSotg
 - 👀 I’m interested in ... Cargar mi repositorio.
-- 🌱 I’m currently learning ... Desarrollo de Software.
+- 🌱 I’m currently learning ... Desarrollo de Software. SQL/C# .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
