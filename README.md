@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RSotg (Raquel Soto).
-- 👀 I’m interested in ... Learn and Reinforce / Aprender y Reforzar.
+- 👀 I’m interested in ... Learn
 - 📫 How to reach me ... raquelsotoargentina@gmail.com
 
 <!---
